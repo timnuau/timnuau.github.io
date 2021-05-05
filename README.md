@@ -1,1 +1,2 @@
 # timnuau.github.io
+這個作業我是參考Bootstrap官方網站的guideline做的。它提供了許多樣式，我把它複製到VScode之後再依照自己想要的樣式修改。之所以完全是利用Boostrap官網提供的樣式是因為想要嘗試看看可不可以完全依靠boostrap做出成果，也想測試看看boostrap是否真的好用。
